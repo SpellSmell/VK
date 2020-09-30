@@ -6,7 +6,7 @@
  * @license https://raw.github.com/vladkens/VK/master/LICENSE MIT
  */
 
-namespace spellsmell\VK\VK;
+namespace spellsmell\vk\VK;
  
 class VKException extends \Exception {  }
 
