@@ -6,7 +6,7 @@
  * @license https://raw.github.com/vladkens/VK/master/LICENSE MIT
  */
 
-namespace VK;
+namespace spellsmell\VK;
 
 class VK
 {
